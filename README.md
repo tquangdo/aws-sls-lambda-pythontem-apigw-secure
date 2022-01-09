@@ -5,8 +5,6 @@
 ![Forks](https://img.shields.io/github/forks/tquangdo/aws-sls-lambda-pythontem-apigw-secure?color=f05340)
 [![Report an issue](https://img.shields.io/badge/Support-Issues-green)](https://github.com/tquangdo/aws-sls-lambda-pythontem-apigw-secure/issues/new)
 
-![overview](screenshots/overview.png)
-
 1. ## reference
     [youtube](https://www.youtube.com/playlist?list=PLxzKY3wu0_FJuyy7dUn5unlWmM7QuPo6e)
 
@@ -43,7 +41,7 @@
     None
     ```
     ![deploy](screenshots/deploy.png)
-    +
+    -
     ![lambda](screenshots/lambda.png)
     ```shell
     sls invoke --function hello # OR `sls invoke local --function hello`
@@ -115,8 +113,8 @@
     ![uplan2](screenshots/uplan2.png)
     - click `Add API Key to Usage Plan` > Name=`dtq-test-key` > check ☑️ > `Done`
     ![uplan3](screenshots/uplan3.png)
-    - back to api key=`dtq-test-key` (alread added plan=`dtq-usage-plan`), click API key `show`, copy key and paste into POST API header
+    - back to api key=`dtq-test-key` (already added plan=`dtq-usage-plan`), click API key `show`, copy key and paste into POST API header -> POST OK!
     ![show](screenshots/show.png)
-    +
+    -
     ![postheader](screenshots/postheader.png)
 
