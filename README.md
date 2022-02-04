@@ -10,6 +10,9 @@
 1. ## reference
     [youtube](https://www.youtube.com/playlist?list=PLxzKY3wu0_FJuyy7dUn5unlWmM7QuPo6e)
 
+1. ## link repo
+    [github](https://github.com/tquangdo/aws-python-sls-lambda-apigw-simple-json)
+
 1. ## init
     ```shell
     sls create --template aws-python3
