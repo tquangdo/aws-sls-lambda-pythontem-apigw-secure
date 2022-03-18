@@ -1,9 +1,9 @@
-# aws-sls-lambda-pythontem-apigw-secure 🐳
+# aws-sls-python-tpl-lambda-apigw-secure 🐳
 
-![Stars](https://img.shields.io/github/stars/tquangdo/aws-sls-lambda-pythontem-apigw-secure?color=f05340)
-![Issues](https://img.shields.io/github/issues/tquangdo/aws-sls-lambda-pythontem-apigw-secure?color=f05340)
-![Forks](https://img.shields.io/github/forks/tquangdo/aws-sls-lambda-pythontem-apigw-secure?color=f05340)
-[![Report an issue](https://img.shields.io/badge/Support-Issues-green)](https://github.com/tquangdo/aws-sls-lambda-pythontem-apigw-secure/issues/new)
+![Stars](https://img.shields.io/github/stars/tquangdo/aws-sls-python-tpl-lambda-apigw-secure?color=f05340)
+![Issues](https://img.shields.io/github/issues/tquangdo/aws-sls-python-tpl-lambda-apigw-secure?color=f05340)
+![Forks](https://img.shields.io/github/forks/tquangdo/aws-sls-python-tpl-lambda-apigw-secure?color=f05340)
+[![Report an issue](https://img.shields.io/badge/Support-Issues-green)](https://github.com/tquangdo/aws-sls-python-tpl-lambda-apigw-secure/issues/new)
 
 ![overview](screenshots/overview.png)
 
@@ -32,16 +32,16 @@
     ->
     Serverless: Stack update finished...
     Service Information
-    service: aws-sls-lambda-pythontem-apigw-secure
+    service: aws-sls-python-tpl-lambda-apigw-secure
     stage: dev
     region: us-east-1
-    stack: aws-sls-lambda-pythontem-apigw-secure-dev
+    stack: aws-sls-python-tpl-lambda-apigw-secure-dev
     resources: 6
     api keys:
     None
     endpoints:
     functions:
-    hello: aws-sls-lambda-pythontem-apigw-secure-dev-hello
+    hello: aws-sls-python-tpl-lambda-apigw-secure-dev-hello
     layers:
     None
     ```
@@ -122,4 +122,3 @@
     ![show](screenshots/show.png)
     -
     ![postheader](screenshots/postheader.png)
-
